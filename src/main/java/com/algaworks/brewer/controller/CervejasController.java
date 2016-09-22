@@ -32,5 +32,4 @@ public class CervejasController {
 		System.out.println(">>> descrição: " + cerveja.getDescricao());
 		return "redirect:/cervejas/novo";
 	}
-	
 }
